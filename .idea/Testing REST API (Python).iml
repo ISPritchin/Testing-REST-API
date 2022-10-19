@@ -1,35 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09. Введение в Pytest" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/10. Тестирование API" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/11. Параметризованный тест" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/12. Позитивный тест на авторизацию" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/13. Негативные тесты на авторизацию" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/14. Выделение setUp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/15. BaseCase" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/16. Тестирование функционала по созданию пользователя" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/17. Добавление отчётов (Allure)" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/venv" />
-      <excludeFolder url="file://$MODULE_DIR$/.pytest_cache/v" />
-      <excludeFolder url="file://$MODULE_DIR$/09. Введение в Pytest/.pytest_cache/v" />
-      <excludeFolder url="file://$MODULE_DIR$/10. Тестирование API/.pytest_cache/v" />
-      <excludeFolder url="file://$MODULE_DIR$/11. Параметризованный тест/.pytest_cache/v" />
-      <excludeFolder url="file://$MODULE_DIR$/12. Позитивный тест на авторизацию/.pytest_cache/v" />
-      <excludeFolder url="file://$MODULE_DIR$/13. Негативные тесты на авторизацию/.pytest_cache/v" />
-      <excludeFolder url="file://$MODULE_DIR$/14. Выделение setUp/.pytest_cache/v" />
-      <excludeFolder url="file://$MODULE_DIR$/15. BaseCase/tests/.pytest_cache/v" />
-      <excludeFolder url="file://$MODULE_DIR$/16. Тестирование функционала по созданию пользователя/tests/.pytest_cache/v" />
-      <excludeFolder url="file://$MODULE_DIR$/17. Добавление отчётов (Allure)/.pytest_cache/v" />
-      <excludeFolder url="file://$MODULE_DIR$/17. Добавление отчётов (Allure)/tests/.pytest_cache/v" />
-    </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (Testing REST API (Python))" jdkType="Python SDK" />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-  <component name="PackageRequirementsSettings">
-    <option name="versionSpecifier" value="Strong equality (==x.y.z)" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="py.test" />
