@@ -10,7 +10,7 @@ class Assertions:
         try:
             response_as_dict = response.json()
         except json.decoder.JSONDecodeError:
-            assert False, f'Responce is not in JSON format. Response text is {response.text}'
+            assert False, f'Resposce is not in JSON format. Response text is {response.text}'
 
         return response_as_dict
 
