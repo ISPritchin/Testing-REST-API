@@ -1,0 +1,2 @@
+Pritchin
+<class 'str'>
